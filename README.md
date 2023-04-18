@@ -1,0 +1,2 @@
+# Confidential-Communications
+可信第三方密钥分配中心利用RSA算法为用户分配AES密钥，用户利用AES算法进行保密通信
